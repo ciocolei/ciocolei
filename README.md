@@ -12,7 +12,7 @@
     I'm currently learning React Native.
   </p>
 
-  <h2>💬 For Math 154 Classmates</h2>
+  <h2>💬 For Math 154 Intro to Java </h2>
   <p>
     Here's the <a href="https://youtube.com/playlist?list=PL1LCgbfQ4xJMlnHyKrIULASOfzcTMA5mT&si=3qu7h-pKP67a34H_" target="_blank">tutorials playlist</a> for our course.
   </p>
