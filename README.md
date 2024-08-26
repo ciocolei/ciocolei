@@ -19,7 +19,7 @@
 
   <h2>📫 How to Reach Me</h2>
   <p>
-    Feel free to contact me via email at <a href="mailto:lgcioco@up.edu.ph">lgcioco@up.edu.ph</a> or <a href="mailto:lcioco@indie-co.com">lcioco@indie-co.com</a>.
+    Feel free to contact me via email at <a href="mailto:lgcioco@up.edu.ph">lgcioco@up.edu.ph</a> 
   </p>
 
   <h2>😄 Pronouns</h2>
