@@ -10,7 +10,7 @@
       background-color: #ffe4e1; /* soft pink background */
       color: #4b0082; /* indigo text color */
       text-align: center; /* center-align text */
-      padding: 20px;
+      padding: 20 px;
     }
 
     h1, h2 {
