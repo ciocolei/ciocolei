@@ -1,63 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: 'Comic Sans MS', cursive, sans-serif; /* playful font */
-      line-height: 1.6;
-      background-color: #ffe4e1; /* soft pink background */
-      color: #4b0082; /* indigo text color */
-      text-align: center; /* center-align text */
-      padding: 20 px;
-    }
 
-    h1, h2 {
-      color: #ff69b4; /* hot pink color for headers */
-    }
-
-    a {
-      color: #ff1493; /* deep pink links */
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .emoji {
-      display: inline-block;
-      animation: bounce 1s infinite; /* bounce animation */
-    }
-
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-      }
-      40% {
-        transform: translateY(-10px);
-      }
-      60% {
-        transform: translateY(-5px);
-      }
-    }
-
-    .icon {
-      width: 40px; /* size of the moving icons */
-      margin: 0 5px;
-      animation: float 2s infinite; /* floating animation */
-    }
-
-    @keyframes float {
-      0%, 100% {
-        transform: translatey(0px);
-      }
-      50% {
-        transform: translatey(-10px);
-      }
-    }
-  </style>
 </head>
 <body>
 
@@ -86,9 +27,15 @@
     My pronouns are she/her.
   </p>
 
-  <img src="https://i.imgur.com/A6Y4Rkg.png" alt="flower icon" class="icon">
-  <img src="https://i.imgur.com/A6Y4Rkg.png" alt="flower icon" class="icon">
-  <img src="https://i.imgur.com/A6Y4Rkg.png" alt="flower icon" class="icon">
+<!-- Oscillating Blue Wave -->
+<div class="wave-container">
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="wave"></div>
+</div>
 
 </body>
 </html>
